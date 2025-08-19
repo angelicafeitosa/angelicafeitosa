@@ -34,7 +34,7 @@
 - 🎨 Figma: [@angelicafeitosa](https://www.figma.com/@angelicafeitosa)
 
 
-## 🚀 Metas para 2025
+## 🚀 Metas para 2026
 - Aprimorar minhas habilidades em desenvolvimento fullstack e Design UI/UX
 - Concluir com excelência minha formação pelo programa Oracle + Alura
 - Criar projetos pessoais com impacto real
