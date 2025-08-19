@@ -30,6 +30,7 @@
 - ✉️ E-mail: **angelicamarianafeitosa@gmail.com**
 <p>
   <a href="https://www.figma.com/@angelicafeitosa"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="20" height="20"/> Figma</a>
+  
   <a href="https://www.linkedin.com/in/angélica-feitosa-8b29a8216"><i class="devicon-linkedin-plain colored" style="font-size:20px;"></i> LinkedIn</a>
 </p>
 
