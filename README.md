@@ -2,19 +2,27 @@
 
 ## 👩‍💻 Sobre mim
 
-* 🎓 Graduada como **Tecnóloga em Análise e Desenvolvimento de Sistemas**
-* 🚀 Futura **Dev Fullstack** em formação pelo programa **Oracle + Alura** e **Alura**.
+* 🎓 Graduada em **Tecnóloga em Análise e Desenvolvimento de Sistemas**
+* 🚀 Futura **Dev Fullstack**, com atenção especial a **UX/UI e design de front-end**, em formação pelo programa **Oracle + Alura**
 * 🤝 Experiência com **Suporte ao Cliente (Atendimento ao cliente)**
 
 ## 💻 Tecnologias
+
 <div align="center">
-  <table>
-    <tr>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-      <i class="devicon-git-plain-wordmark"></i>
-    </tr>
-  </table>
+<table>
+<tr>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/></td>
+<td><i class="devicon-git-plain-wordmark" style="font-size:40px;"></i></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" height="40"/></td>
+</tr>
+</table>
 </div>
 
 ## 📍 Localização
@@ -24,11 +32,8 @@
 ## 📬 Contato
 
 - ✉️ E-mail: **angelicamarianafeitosa@gmail.com**
-<p>
-  <a href="https://www.figma.com/@angelicafeitosa"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="20" height="20"/> Figma</a>
-  
-  <a href="https://www.linkedin.com/in/angélica-feitosa-8b29a8216"><i class="devicon-linkedin-plain colored" style="font-size:20px;"></i> LinkedIn</a>
-</p>
+- 🔗 LinkedIn: [Angélica Feitosa](https://www.linkedin.com/in/angélica-feitosa-8b29a8216)  
+- 🎨 Figma: [@angelicafeitosa](https://www.figma.com/@angelicafeitosa)
 
 
 ## 🚀 Metas para 2025
