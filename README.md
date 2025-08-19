@@ -37,7 +37,7 @@
 
 
 ## 🚀 Metas para 2025
-- Aprimorar minhas habilidades em desenvolvimento fullstack
+- Aprimorar minhas habilidades em desenvolvimento fullstack e Design UI/UX
 - Concluir com excelência minha formação pelo programa Oracle + Alura
 - Criar projetos pessoais com impacto real
 - Contribuir em projetos open source
